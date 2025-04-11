@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+
+function updateContent() {
+  document.getElementById('dua').innerHTML = 100 + 200;
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+ 
+  document.getElementById('dua').innerHTML = 100 + 200;
+});
+</script>
+
+<h1 id="demo">Selamat Hari Raya</h1>
+
+<p id="dua">Selamat Hari Raya Maaf Zahir dan Batin</p>
+
+<button type="button" onclick="updateContent()">Click Me</button>
+
+</body>
+</html>
