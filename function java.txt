@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+function kuih_raya() {
+  document.getElementById('satu').innerHTML = "Kuih Raya Sedapp!!!.";
+}
+</script>
+
+<h1 id="satu">Selamat Hari Raya</h1>
+
+<p id="dua">Selamat Hari Raya Maaf Zahir dan Batin</p>
+
+<button type="button" onclick="kuih_raya()">Click Me</button>
+
+</body>
+</html>
