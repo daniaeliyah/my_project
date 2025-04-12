@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script
+src="myScript.js">
+</script>
+
+<h1 id="demo">Selamat Hari Raya</h1>
+
+<p id="dua">Selamat Hari Raya Maaf Zahir dan Batin</p>
+
+<button type="button" onclick="myFunction()">Click Me</button>
+
+</body>
+</html>
